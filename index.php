@@ -1,7 +1,4 @@
-<?
-
-
-$webpage_array = [
+<? $webpage_array = [
 
   ],
   
