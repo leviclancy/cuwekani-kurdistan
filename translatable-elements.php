@@ -6,7 +6,7 @@
 		"ar" => "",
 		],
 
-	"" => [
+	"is-antizionism-antisemitism" => [
 		"en" => "",
 		"ku" => "",
 		"ar" => "",
