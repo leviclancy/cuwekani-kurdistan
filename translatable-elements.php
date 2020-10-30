@@ -1,0 +1,5 @@
+<? $translatable_elements = [
+
+
+
+]; ?>
