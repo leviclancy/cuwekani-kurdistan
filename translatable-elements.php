@@ -1,5 +1,11 @@
 <? $translatable_elements = [
 
+	"the-jews-of-kurdistan" => [
+		"en" => "The Jews of Kurdistan",
+		"ku" => "جووەکانی کوردستان"
+		"ar" => "",
+		],
+
 	"is-zionism-supremacism" => [
 		"en" => "",
 		"ku" => "",
@@ -7,12 +13,6 @@
 		],
 
 	"is-antizionism-antisemitism" => [
-		"en" => "",
-		"ku" => "",
-		"ar" => "",
-		],
-
-	"" => [
 		"en" => "",
 		"ku" => "",
 		"ar" => "",
