@@ -3,7 +3,12 @@
 "homepage" => [],
   
 "jews-from-kurdistan" => []
+
+"jewish-status",
   
+"kurdistan-region-and-israel" => [],
+  
+"quiz",
   
   ],
 
