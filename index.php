@@ -1,18 +1,53 @@
 <? $webpage_array = [
   
-"homepage" => [],
+	"homepage" => [],
   
-"jews-from-kurdistan" => [
-	"econonomic-matter",
-	]
+	"jews-from-kurdistan" => [
+		"spiritual-matters",
+		"econonomic-matters",
+		"language",
+		"community-relations" => [
+			"relations-with-kurds",
+			"relations-with-assyrians",
+			"relations-with-ezidis",
+			"relations-with-turkomans",
+			"relations-with-governments",
+			"relations-with-other-jews",
+			],
+		"community-institutions" => [
+			],
+		"community-leaders" => [
+			],
+		"expulsion-of-jews" => [
+			"operation-ezra-and-nehemiah",
+			"what-is-aliyah",
+			],
+		"communities" => [
+			"urmia-rizaiyeh",
+			"erbil",
+			"urfa",
+			],
+		],
 
-"jewish-status",
+	"jewish-status",
   
-"kurdistan-region-and-israel" => [],
-  
-"quiz",
-  
-  ],
+	"kurdistan-region-and-israel" => [],
+	
+	"what-is-antisemitism" => [
+		"am-i-antisemitic",
+		"recognizing-antisemitism",
+		"antisemitism-is-deadly",
+		],
+	
+	"fact-versus-fiction",
+	
+	"be-an-ally",
+	  
+	"quiz",
+
+	"share-your-stories",
+	
+	],
 
 // Placeholder
 
