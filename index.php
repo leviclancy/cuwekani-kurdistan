@@ -1,5 +1,10 @@
 <? $webpage_array = [
-
+  
+"homepage" => [],
+  
+"jews-from-kurdistan" => []
+  
+  
   ],
 
 // Placeholder
