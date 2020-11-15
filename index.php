@@ -2,7 +2,9 @@
   
 "homepage" => [],
   
-"jews-from-kurdistan" => []
+"jews-from-kurdistan" => [
+	"econonomic-matter",
+	]
 
 "jewish-status",
   
