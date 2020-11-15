@@ -26,6 +26,28 @@
 			"urmia-rizaiyeh",
 			"erbil",
 			"urfa",
+			"betanure",
+			"barashe",
+			"barzan",
+			"duhok",
+			"zakho",
+			"kirkuk",
+			"nerwa",
+			"sindur",
+			"sulaymaniyah",
+			"amedi",
+			"akre",
+			"challah",
+			"qamishli",
+			"alqosh",
+			"sinjar",
+			],
+		"prominent-figures" => [
+			"queen-helena",
+			"asaneth-barzani",
+			],
+		"special-thanks" => [
+			"president-nechirvan-barzani",
 			],
 		],
 
@@ -48,6 +70,12 @@
 	"share-your-stories",
 	
 	],
+
+// Put the uppermost navigation elements at the top
+
+// Then a button to jump to that place in the sidebar.
+
+// Put a navigation sidebar in place
 
 // Placeholder
 
