@@ -46,15 +46,16 @@
 			"queen-helena",
 			"asaneth-barzani",
 			],
-		"special-thanks" => [
+		"honorable-friends" => [
 			"president-nechirvan-barzani",
+			"cheryl-barnard",
 			],
 		],
 
-	"jewish-status",
-  
 	"kurdistan-region-and-israel" => [],
 	
+	"jewish-status",
+  
 	"what-is-antisemitism" => [
 		"am-i-antisemitic",
 		"recognizing-antisemitism",
