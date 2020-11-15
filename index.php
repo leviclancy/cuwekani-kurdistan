@@ -47,8 +47,8 @@
 			"asaneth-barzani",
 			],
 		"honorable-friends" => [
-			"president-nechirvan-barzani",
-			"cheryl-barnard",
+//			"president-nechirvan-barzani",
+//			"cheryl-barnard",
 			],
 		],
 
