@@ -72,7 +72,7 @@
 
 	"share-your-stories",
 	
-	],
+	];
 
 // Put a navigation sidebar in place ASAP
 
