@@ -82,7 +82,7 @@
 
 // Placeholder
 
-echo "Coming soon.<br><br>"
+echo "Coming soon.<br><br>";
 
 echo "<a href='https://instagram.com/cuwekani_kurdistan'>instagram.com/cuwekani_kurdistan</a><br><br>";
 
