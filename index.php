@@ -74,11 +74,11 @@
 	
 	],
 
+// Put a navigation sidebar in place ASAP
+
 // Put the uppermost navigation elements at the top
 
 // Then a button to jump to that place in the sidebar.
-
-// Put a navigation sidebar in place
 
 // Placeholder
 
