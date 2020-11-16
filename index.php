@@ -5,7 +5,7 @@
 	"jews-from-kurdistan" => [
 		"spiritual-matters",
 		"econonomic-matters",
-		"language",
+		"judeo-aramaic-language",
 		"community-relations" => [
 			"relations-with-kurds",
 			"relations-with-assyrians",
