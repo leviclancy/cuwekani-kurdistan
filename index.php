@@ -45,6 +45,7 @@
 		"prominent-figures" => [
 			"queen-helena",
 			"asaneth-barzani",
+			"moshe-gabbai",
 			],
 		"honorable-friends" => [
 //			"president-nechirvan-barzani",
@@ -52,7 +53,9 @@
 			],
 		],
 
-	"kurdistan-region-and-israel" => [],
+	"kurdistan-region-and-israel" => [
+		"kurdish-muslims-in-israel",
+		],
 	
 	"jewish-status",
   
@@ -60,10 +63,9 @@
 		"am-i-antisemitic",
 		"recognizing-antisemitism",
 		"antisemitism-is-deadly",
+		"fact-versus-fiction",
 		],
-	
-	"fact-versus-fiction",
-	
+		
 	"be-an-ally",
 	  
 	"quiz",
