@@ -35,7 +35,7 @@
 			"nerwa",
 			"sindur",
 			"sulaymaniyah",
-			"amedi",
+			"amediya",
 			"akre",
 			"challah",
 			"qamishli",
