@@ -7,8 +7,7 @@ $source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeIaZ0kiGqTr5qNGctkf
 
 // See if it's been recently updated. If not, then recapture it.
 
-// Pull all content, make a word cloud
-
+// Pull all content
 
 // Overall view
   // Language toggle
