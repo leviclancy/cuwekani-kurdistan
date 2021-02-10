@@ -10,17 +10,11 @@ $source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeIaZ0kiGqTr5qNGctkf
 // Pull all content
 
 // Overall view
-  // Language toggle
-  // Includes search
-
-$testing = null;
-	// tab
-	
+	// Language toggle
+ 	// Includes search	
 
 // Single view — ID & language in URL
-// 100% in FAQ format — fact-checing format
-
-// Each one is highly sharable and also has a meme format
-
+	// 100% in FAQ format — fact-checing format
+	// Each one is highly sharable and also has a meme format
 
 ?>
