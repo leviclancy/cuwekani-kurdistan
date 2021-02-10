@@ -65,10 +65,6 @@
 		"antisemitism-is-deadly",
 		"fact-versus-fiction",
 		],
-		
-	"be-an-ally",
-	  
-	"quiz",
 
 	"share-your-stories",
 	
