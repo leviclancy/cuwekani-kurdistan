@@ -1,6 +1,5 @@
 <?
 
-
 $source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeIaZ0kiGqTr5qNGctkfdT980boNxLa9NXofw-yhEC8PoVPlgKKBD4Uyfdba6Qd9uJfh44bugoNN85/pub?output=tsv";
 
 // Periodically capture and save it as a TXT file
