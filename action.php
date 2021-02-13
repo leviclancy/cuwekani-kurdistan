@@ -26,6 +26,10 @@ $source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeIaZ0kiGqTr5qNGctkf
 
 	// https://www.w3schools.com/html/html5_canvas.asp
 
+// <amp-script src="http://example.com/my-script.js" width=300 height=100>
+//   <canvas id="myCanvas">..</canvas>
+// </amp-script>
+
 	// Create the size of image or blank image 
 //	$image = imagecreate(500, 300); 
   
