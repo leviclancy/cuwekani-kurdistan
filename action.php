@@ -17,18 +17,30 @@ $source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeIaZ0kiGqTr5qNGctkf
 	// Language toggle
  	// Includes search	
 
+// Javascript for Canvas
+//	<canvas id="myCanvas">
+//	Your browser does not support the canvas tag.
+//	</canvas>
+
+//	<script>
+//	var canvas = document.getElementById("myCanvas");
+//	var ctx = canvas.getContext("2d");
+//	ctx.fillStyle = "#FF0000";
+//	ctx.fillRect(0, 0, 80, 80);
+//	</script>
+
 // Single view — ID & language in URL
 	// 100% in FAQ format — fact-checing format
 	// Each one is highly sharable and also has a meme format
 
-// Generate image
+
 	// Generate img from an ID and language
 
 	// https://www.w3schools.com/html/html5_canvas.asp
 
-// <amp-script src="http://example.com/my-script.js" width=300 height=100>
-//   <canvas id="myCanvas">..</canvas>
-// </amp-script>
+//	<amp-script src="http://example.com/my-script.js" width=300 height=100>
+//		<canvas id="myCanvas">..</canvas>
+//		</amp-script>
 
 	// Create the size of image or blank image 
 //	$image = imagecreate(500, 300); 
